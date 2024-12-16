@@ -5,3 +5,4 @@ beautifulsoup4
 dnspython
 Flask
 jsonify
+gunicorn
